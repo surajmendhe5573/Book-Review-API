@@ -24,7 +24,7 @@ The objective of this project is to create a backend service that supports core 
 |--------|----------------------|------------------------------|----------------|
 | POST   | `/users/signup`      | Register a new user          | No             |
 | POST   | `/users/login`       | Login user and get JWT token | No             |
-| GET    | `/users`             | Get all users (admin)        | Yes            |
+| GET    | `/users`             | Get all users         | No            |
 
 ### Book Routes
 
