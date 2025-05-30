@@ -1,4 +1,4 @@
-# Book Review API
+# Book Review API.
 
 A REST API backend for a **Book Review Application** that allows users to register, login, explore books, add reviews, and manage their book reviews.
 
